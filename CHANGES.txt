@@ -1,2 +1,5 @@
+ContractPack-Round8 1.1.0
+- Add contracts to dump Oscar-B tanks.
+
 ContractPack-Round8 1.0.0
 - Initial release.
