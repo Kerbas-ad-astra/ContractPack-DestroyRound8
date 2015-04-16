@@ -1,3 +1,6 @@
+ContractPack-Round8 1.2.0
+- Build a monument to the ROUND-8!
+
 ContractPack-Round8 1.1.1
 - Ice caps are so disliked, we listed them twice!
 

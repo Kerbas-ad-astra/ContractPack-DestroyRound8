@@ -2,7 +2,7 @@
      "NAME":"Contract Pack: Save the ROUND-8",
 	 "URL":"https://raw.githubusercontent.com/jrossignol/ContractPack-Round8/master/GameData/ContractPacks/Round8/ContractPack-Round8.version",
 	 "DOWNLOAD":"https://github.com/jrossignol/ContractPack-Round8/releases",
-     "CHANGE_LOG_URL":"https://raw.githubusercontent.com/jrossignol/ContractPack-Round8/1.1.1/CHANGES.txt",
+     "CHANGE_LOG_URL":"https://raw.githubusercontent.com/jrossignol/ContractPack-Round8/1.2.0/CHANGES.txt",
      "GITHUB":{
          "USERNAME":"jrossignol",
          "REPOSITORY":"ContractPack-Round8",
@@ -10,8 +10,8 @@
      },
      "VERSION":{
          "MAJOR":1,
-         "MINOR":1,
-         "PATCH":1,
+         "MINOR":2,
+         "PATCH":0,
          "BUILD":0
      },
      "KSP_VERSION":{
