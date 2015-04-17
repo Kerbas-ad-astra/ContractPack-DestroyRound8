@@ -1,3 +1,6 @@
+ContractPack-Round8 1.3.0
+- New contract: Add ROUND-8 tanks to the Kerbin Space Station (requires severedsolo's KSS contract pack).
+
 ContractPack-Round8 1.2.1
 - Fix height requirement on monument.
 
