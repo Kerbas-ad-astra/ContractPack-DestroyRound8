@@ -1,3 +1,6 @@
+ContractPack-Round8 1.2.1
+- Fix height requirement on monument.
+
 ContractPack-Round8 1.2.0
 - Build a monument to the ROUND-8!
 
