@@ -1,2 +1,17 @@
+ContractPack-Round8 1.3.0
+- New contract: Add ROUND-8 tanks to the Kerbin Space Station (requires severedsolo's KSS contract pack).
+
+ContractPack-Round8 1.2.1
+- Fix height requirement on monument.
+
+ContractPack-Round8 1.2.0
+- Build a monument to the ROUND-8!
+
+ContractPack-Round8 1.1.1
+- Ice caps are so disliked, we listed them twice!
+
+ContractPack-Round8 1.1.0
+- Add contracts to dump Oscar-B tanks.
+
 ContractPack-Round8 1.0.0
 - Initial release.
